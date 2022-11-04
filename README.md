@@ -58,12 +58,13 @@ File --> Assembly output  --> Generate Pick and Palce file --> Click "Ok"
 
 Finally, view output file with online Altium Viewer: https://www.altium.com/viewer/ 
 
+<p>YOUTUBE Video Playlist:</p> 
 
 <b>Altium Tutorial 1: Create PCB Project & Draw Schematic</b><br>
-<b>Altium Tutorial 2: Design PCB Layout and Routing</b>
-<b>Altium Tutorial 3: Generate Gerber NC Drill files for Manufacturing</b>
-<b>Altium Tutorial 4: Solder and Text Final PCB Board</b>
-<b>Altium Tutorial 5: Tips and Trick Altium Designer</b>
+<b>Altium Tutorial 2: Design PCB Layout and Routing</b><br>
+<b>Altium Tutorial 3: Generate Gerber NC Drill files for Manufacturing</b><br>
+<b>Altium Tutorial 4: Solder and Text Final PCB Board</b><br>
+<b>Altium Tutorial 5: Tips and Trick Altium Designer</b><br>
 
 
 
