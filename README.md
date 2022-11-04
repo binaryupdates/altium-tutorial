@@ -1,6 +1,6 @@
 # ALTIUM Tutorial from YouTube
 
-Download Altium Designer: altium.com/yt/binaryupdates
+Download Altium Designer: https://www.altium.com/yt/binaryupdates
 
 Lets design PCB using Altium Designer from start to finish.
 
