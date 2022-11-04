@@ -2,7 +2,7 @@
 
 Download Altium Designer: https://www.altium.com/yt/binaryupdates
 
-Lets design PCB using Altium Designer from start to finish.
+Step-by-Step Instruction to Design PCB using Altium Designer from start to finish.
 
 # SCHEMATIC Drawing
 
