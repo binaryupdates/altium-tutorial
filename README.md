@@ -46,13 +46,20 @@ Select PCB Board file --> Open PCB Rules and Violation view --> in popup select 
 
 Design --> Rules --> Silk to Solder Mask Clearence under Manufacturing --> 0.1 mm --> ok --> Re-Run Rule Check, Tools --> DRC --. Run DRC --> Check
 
+![alt text](https://github.com/binaryupdates/altium-tutorial/blob/main/schematic.png)
+
 # GENERATE GERBER, NC DRILL FILES and Pick and Place File
 
+File --> Fabrication output --> gerber Files
+
+File --> fabrication output --> NC Drill Files --> Ok
+
+File --> Assembly output  --> Generate Pick and Palce file --> Click "Ok"
+
+Finally, view output file with online Altium Viewer: https://www.altium.com/viewer/ 
 
 
 
 
 
 
-
-![alt text](https://github.com/binaryupdates/altium-tutorial/blob/main/schematic.png)
