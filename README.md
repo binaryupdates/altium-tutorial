@@ -24,7 +24,17 @@ Set Origin, Go to Edit --> Origin --> Set --> Select Corner cursor
 
 Set tthe grid, Press "G" on keyboard & select 0.5mm, View --> Fit Board
 
-Design
+Design --> Layer Stack Manager --> Dielectric "1.6 mm" (set layer stack) --> Ok
+
+Design --> Rules --> Clearence under Design Rules, Minimum Clearence 0.3mm & Width, Preferred Width 0.5, Min: 0.3 and Max: 1mm, Routing Via Style --> Routing Via Min: 0.6 (Via Diameter) & Via Hole Size 0.3 --> Ok
+
+To Switched OFF Auto Pane--> Gear Icon on Top right corner --> PCB Editor --> General --> Uncheck "Unable Autopane"
+
+Arrange Components and palcements properly on PCB Document and select "Interactive Routing" on Active bar
+
+ROUTING PROCEDURE
+
+
 
 
 
