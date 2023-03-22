@@ -60,7 +60,7 @@ Finally, view output file with online Altium Viewer: https://www.altium.com/view
 
 <p>YOUTUBE Video Playlist:</p> 
 
-<b>Altium Tutorial 1: Create PCB Project & Draw Schematic</b><br>
+<b>Altium Tutorial 1: Create PCB Project & Draw Schematic: https://youtu.be/KQ5_7gQ1bIM</b><br>
 <b>Altium Tutorial 2: Design PCB Layout and Routing</b><br>
 <b>Altium Tutorial 3: Generate Gerber NC Drill files for Manufacturing</b><br>
 <b>Altium Tutorial 4: Solder and Text Final PCB Board</b><br>
