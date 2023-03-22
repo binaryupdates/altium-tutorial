@@ -61,8 +61,8 @@ Finally, view output file with online Altium Viewer: https://www.altium.com/view
 <p>YOUTUBE Video Playlist:</p> 
 
 <b>Altium Tutorial 1: Create PCB Project & Draw Schematic: https://youtu.be/KQ5_7gQ1bIM</b><br>
-<b>Altium Tutorial 2: Design PCB Layout and Routing</b><br>
-<b>Altium Tutorial 3: Generate Gerber NC Drill files for Manufacturing</b><br>
+<b>Altium Tutorial 2: Design PCB Layout and Routing: https://youtu.be/9GcAqN-sOzU</b><br>
+<b>Altium Tutorial 3: Generate Gerber and NC Drill Files: https://youtu.be/GhyA6nV-6RA</b><br>
 <b>Altium Tutorial 4: Solder and Text Final PCB Board</b><br>
 <b>Altium Tutorial 5: Tips and Trick Altium Designer</b><br>
 
